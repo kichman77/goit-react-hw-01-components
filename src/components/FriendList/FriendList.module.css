@@ -1,0 +1,34 @@
+.status {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: red;
+}
+.statusOn {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: green;
+}
+.friendList {
+  display: flex;
+  flex-flow: column;
+  width: 400px;
+  border: 1px solid wheat;
+  margin: 0 auto;
+  padding: 20px;
+}
+.item {
+  display: flex;
+  border: 1px solid wheat;
+  border-radius: 10px;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+.avatar {
+  margin: 0 20px;
+}

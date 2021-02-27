@@ -1,0 +1,10 @@
+.transactionHistory {
+  width: 400px;
+  margin: 80px auto;
+  box-shadow: 0 0 10px wheat;
+  padding: 20px;
+}
+
+td {
+  border: 1px solid wheat;
+}
